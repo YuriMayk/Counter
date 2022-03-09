@@ -11,6 +11,9 @@ The accountant project was developed to assist in teaching children. Its main ob
 </br>
 O projeto contador, foi desenvolvido para auxiliar no ensino de crianças. Seu principal objetivo é criar uma sequencia de números, afim de que um instrutor possa utilizá-los como recurso visual para crianças se familiarizarem com os números e suas respectivas sequências. O instrutor pode contar uma função reversa dos números, apenas invertendo o número final e inicial, e também tornando o passo negativo.
 
+</br>
+</br>
+
 <img src="./assets/large-screen.png" alt="Project's interface image on a large-scale screen/ Imagem da interface do projeto em uma tela de larga escala">
 
 > Counter Interface running in a Large Screen/ Interface do Counter(Contador) funcionando em uma tela de alta escala.
@@ -25,7 +28,6 @@ O projeto contador, foi desenvolvido para auxiliar no ensino de crianças. Seu p
 ### Project steps/Etapas do Projeto
 
 The project is not under development. Below are the definitions of performed tasks to finish it:
-</br>
 </br>
 O projeto não está em desenvolvimento. Abaixo estão as definições de tarefas executadas para finalizá-lo:
 
