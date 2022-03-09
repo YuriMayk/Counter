@@ -6,10 +6,10 @@
 
 ### About Counter / Sobre o Counter
 
-The accountant project was developed to assist in teaching children. Its main objective is to create a sequence of numbers, so that a instructor can use them as a visual resource for children to become familiar with the numbers and their respective sequences. The instructor can count a reverse function of the numbers, just inverting the ending and starting number, and also making the step negative.
+The Counter project was developed to assist in teaching children. Its main objective is to create a sequence of numbers, so that a instructor can use them as a visual resource for children to become familiar with the numbers and their respective sequences. The instructor can count with a reverse function of the numbers, just inverting the ending and starting number, and also making the step negative.
 </br>
 </br>
-O projeto contador, foi desenvolvido para auxiliar no ensino de crianças. Seu principal objetivo é criar uma sequencia de números, afim de que um instrutor possa utilizá-los como recurso visual para crianças se familiarizarem com os números e suas respectivas sequências. O instrutor pode contar uma função reversa dos números, apenas invertendo o número final e inicial, e também tornando o passo negativo.
+O projeto contador, foi desenvolvido para auxiliar no ensino de crianças. Seu principal objetivo é criar uma sequencia de números, afim de que um instrutor possa utilizá-los como recurso visual para crianças se familiarizarem com os números e suas respectivas sequências. O instrutor pode contar com uma função reversa dos números, apenas invertendo o número final e inicial, e também tornando o passo negativo.
 
 </br>
 </br>
